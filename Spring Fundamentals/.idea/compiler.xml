@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="conference" />
+        <module name="conference-java" />
+        <module name="conference (11)" />
+        <module name="conference (10)" />
+        <module name="conference (1)" />
+        <module name="conference (3)" />
+        <module name="conference (2)" />
+        <module name="conference (5)" />
+        <module name="conference (4)" />
+        <module name="conference (7)" />
+        <module name="conference-java (3)" />
+        <module name="conference-java (4)" />
+        <module name="conference (6)" />
+        <module name="conference (9)" />
+        <module name="conference-java (1)" />
+        <module name="conference (8)" />
+        <module name="conference-java (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="conference" target="11" />
+      <module name="conference (1)" target="11" />
+      <module name="conference (10)" target="11" />
+      <module name="conference (11)" target="11" />
+      <module name="conference (2)" target="11" />
+      <module name="conference (3)" target="11" />
+      <module name="conference (4)" target="11" />
+      <module name="conference (5)" target="11" />
+      <module name="conference (6)" target="11" />
+      <module name="conference (7)" target="11" />
+      <module name="conference (8)" target="11" />
+      <module name="conference (9)" target="11" />
+      <module name="conference-java" target="11" />
+      <module name="conference-java (1)" target="11" />
+      <module name="conference-java (2)" target="11" />
+      <module name="conference-java (3)" target="11" />
+      <module name="conference-java (4)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

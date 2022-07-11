@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03/demos/demos/after/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/m4/after/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/m4/after/conference-java/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/m4/before/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/m5/after/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/m5/after/conference-java/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/m5/before/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/m6/after/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/m6/after/conference-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/m6/after/conference-java/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/m6/before/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/after/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/after/conference-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/after/conference-java/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/before/conference/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/before/conference-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/m7/before/conference-java/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

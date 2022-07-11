@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/06/demos/m6/after/conference-xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07/demos/m7/after/conference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07/demos/m7/after/conference-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07/demos/m7/after/conference-xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07/demos/m7/before/conference-xml" vcs="Git" />
+  </component>
+</project>

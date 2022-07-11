@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Spring Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/demos/after/conference/conference.iml" filepath="$PROJECT_DIR$/03/demos/demos/after/conference/conference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/m4/after/conference/conference (1).iml" filepath="$PROJECT_DIR$/04/demos/m4/after/conference/conference (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/before/conference/conference (10).iml" filepath="$PROJECT_DIR$/07/demos/m7/before/conference/conference (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/before/conference-xml/conference (11).iml" filepath="$PROJECT_DIR$/07/demos/m7/before/conference-xml/conference (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/m4/before/conference/conference (2).iml" filepath="$PROJECT_DIR$/04/demos/m4/before/conference/conference (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/m5/after/conference/conference (3).iml" filepath="$PROJECT_DIR$/05/demos/m5/after/conference/conference (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/m5/before/conference/conference (4).iml" filepath="$PROJECT_DIR$/05/demos/m5/before/conference/conference (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/m6/after/conference/conference (5).iml" filepath="$PROJECT_DIR$/06/demos/m6/after/conference/conference (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/m6/after/conference-xml/conference (6).iml" filepath="$PROJECT_DIR$/06/demos/m6/after/conference-xml/conference (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/m6/before/conference/conference (7).iml" filepath="$PROJECT_DIR$/06/demos/m6/before/conference/conference (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/after/conference/conference (8).iml" filepath="$PROJECT_DIR$/07/demos/m7/after/conference/conference (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/after/conference-xml/conference (9).iml" filepath="$PROJECT_DIR$/07/demos/m7/after/conference-xml/conference (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/m4/after/conference-java/conference-java.iml" filepath="$PROJECT_DIR$/04/demos/m4/after/conference-java/conference-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/m5/after/conference-java/conference-java (1).iml" filepath="$PROJECT_DIR$/05/demos/m5/after/conference-java/conference-java (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/m6/after/conference-java/conference-java (2).iml" filepath="$PROJECT_DIR$/06/demos/m6/after/conference-java/conference-java (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/after/conference-java/conference-java (3).iml" filepath="$PROJECT_DIR$/07/demos/m7/after/conference-java/conference-java (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/m7/before/conference-java/conference-java (4).iml" filepath="$PROJECT_DIR$/07/demos/m7/before/conference-java/conference-java (4).iml" />
+    </modules>
+  </component>
+</project>
