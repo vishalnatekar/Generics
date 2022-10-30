@@ -1,0 +1,36 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: '&lt;='
+- text: '&gt;'
+- text: '&lt;&lt;'
+- text: '&gt;&gt;&gt;'
+- text: '!='
+- text: ==
+- text: '&lt;&gt;'
+- text: =
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2053#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Mon, 10 Oct 2022 19:57:28 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 4
+- 5
+- 6
+local_check: false
